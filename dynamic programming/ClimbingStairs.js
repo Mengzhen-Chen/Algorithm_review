@@ -3,7 +3,7 @@
  * @return {number}
  */
 // Question 70, input n, time: O(N), space: O(N), 27/09/2023
-//note: basically Fib algorithm. Instead of using obj, use array.
+//note: basically Fib algorithm. Instead of using obj, use array.v 
 var climbStairs = function (n) {
   let count = 0;
   mem = {};
