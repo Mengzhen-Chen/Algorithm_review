@@ -1,5 +1,5 @@
 // 1903. Largest Odd Number in String
-/**
+/** TC: O(N), SC: O(N)
  * @param {string} num
  * @return {string}
  */
