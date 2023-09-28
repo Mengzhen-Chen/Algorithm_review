@@ -3,7 +3,7 @@
  * @return {number}
  */
 // 11. Container With Most Water
-// using two pointer method, TC: O(N), SC: O(N)
+// using two pointer method, TC: O(N), SC: O(N), 28/09/2023
 var maxArea = function (height) {
   let left = 0;
   let right = height.length - 1;
