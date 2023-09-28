@@ -1,7 +1,8 @@
 //22 . 22. Generate Parentheses
-/** need to review recursive and recursive dp
- * time comx=?
- * space comx=?
+/** need to review recursive and recursive DFS
+ *
+ * time comx= around 2^n since recursive
+ * space comx= O(n) since 2 time long of string, s.t. O(2n)=O(n)
  * @param {number} n
  * @return {string[]}
  */
